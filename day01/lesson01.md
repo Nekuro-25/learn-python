@@ -32,7 +32,7 @@ d. # adalah Comment (komentar), digunakan sebagai catatan dan tidak akan dieksek
 # 1. Exercise 1 (Environment Check - Easy)
 1. Buka terminal.
 2. python --version.
-3. Catat output.
+3. Catat output. (Python 3.14.7)
 
 # 2. Exercise 2 (Script Pertama - Medium)
 1. Buat file baru (.py)
@@ -44,6 +44,6 @@ Modifikasi file yang sudah dibuat, lebih variatif.
 
 ## D. Knowledge Check
 
-1. Explain: Mengapa kita membutuhkan variabel saat menggunakan fungsi input()? 
-Apa yang terjadi jika kita hanya menulis input() tanpa memasukkan ke variabel?
-2. Predict: Pada Arch, apa yang terjadi jika salah mengetik huruf besar/kecil pada perintah Print("halo") (menggunakan 'P' besar)?
+1. Explain: Mengapa kita membutuhkan variabel saat menggunakan fungsi input()? Agar inputan dari user bisa dipakai untuk fungsi yang lain.
+Apa yang terjadi jika kita hanya menulis input() tanpa memasukkan ke variabel? Bisa, namun kita tidak bisa menggunakan inputan dari user untuk apapun. Bisa kita temukan dikasus video game (Press button to continue)
+2. Predict: Pada Arch, apa yang terjadi jika salah mengetik huruf besar/kecil pada perintah Print("halo") (menggunakan 'P' besar)? Print isn't defined
